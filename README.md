@@ -3,7 +3,7 @@
 Note: 
 This is not a windows installation.
 This Procedural shell scripting language is only for existing database supports.
-Databases it supports all RDBS databases where ever there are extension available for this feature.
+Databases it supports all RDMS databases where ever there are extension available for this feature.
 
 
 Command instructions:
